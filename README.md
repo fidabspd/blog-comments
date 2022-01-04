@@ -1,3 +1,3 @@
-# comments
+# Blog Comments
 
 Only for blog comments
